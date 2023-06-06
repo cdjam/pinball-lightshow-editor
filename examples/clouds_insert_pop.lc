@@ -1,0 +1,9 @@
+{
+    "combo": {
+        "milliseconds_to_run": 6000,
+        "lightshow_files": [
+            "cloud_inserts.ls",
+            "pop_bumpers.ls"
+        ]
+    }
+}
