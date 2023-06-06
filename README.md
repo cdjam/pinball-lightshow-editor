@@ -14,3 +14,12 @@ pip install -r requirements.txt
 The program is started by running:
 
 python3 gui.py
+## Demos
+LED enabled segments (Pop-bumpers):
+![](https://github.com/cdjam/pinball-lightshow-editor/blob/main/demos/01_pops.gif)
+
+LED enabled + random segments:
+![](https://github.com/cdjam/pinball-lightshow-editor/blob/main/demos/02_random.gif)
+
+Lightshow segment combos (all segments run at the same time):
+![](https://github.com/cdjam/pinball-lightshow-editor/blob/main/demos/03_combo.gif)
